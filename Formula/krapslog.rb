@@ -6,6 +6,12 @@ class Krapslog < Formula
   license "MIT"
   head "https://github.com/acj/krapslog-rs.git"
 
+  bottle do
+    root_url "https://github.com/acj/homebrew-krapslog-rs/releases/download/krapslog-0.1.2"
+    sha256 cellar: :any_skip_relocation, catalina:     "ed31c7462dc09dec3ed70f28614877afdabc289c87eb2743688bf896f79fab4c"
+    sha256 cellar: :any_skip_relocation, x86_64_linux: "5bafb2a5e509997666f51ec1df5eb398cf37d0d30f60c9a6f78b537372fecfc4"
+  end
+
   depends_on "rust" => :build
 
   def install
