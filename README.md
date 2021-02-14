@@ -1,13 +1,11 @@
-# Homebrew tap for acj/krapslog-rs
+# Homebrew taps for tools I've made
 
-See [acj/krapslog](https://github.com/acj/krapslog-rs) for info about the krapslog tool.
+## Tools
+
+- [krapslog](https://github.com/acj/krapslog-rs), a command line tool for visualizing log files
 
 ## How do I install these formulae?
 
-`brew install acj/krapslog-rs/<formula>`
+`brew install acj/taps/<formula>`
 
-Or `brew tap acj/krapslog-rs` and then `brew install <formula>`.
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+Or `brew tap acj/taps` and then `brew install <formula>`.
