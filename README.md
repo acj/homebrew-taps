@@ -1,6 +1,6 @@
-# Homebrew taps for tools I've made
+# Homebrew tap for tools I've made
 
-## Tools
+## Formulae
 
 - [krapslog](https://github.com/acj/krapslog-rs), a command line tool for visualizing log files
 
