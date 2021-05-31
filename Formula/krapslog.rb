@@ -1,8 +1,8 @@
 class Krapslog < Formula
   desc "Visualize logs in your terminal using sparklines"
   homepage "https://github.com/acj/krapslog-rs/"
-  url "https://github.com/acj/krapslog-rs/archive/0.1.3.tar.gz"
-  sha256 "fb377cd6586dade97b676085cba0920d0016df6b2df2d3ed4c6438af9e9846a8"
+  url "https://github.com/acj/krapslog-rs/archive/0.2.0.tar.gz"
+  sha256 "162f1b021d4aef6f74b53e798ce2eb39852291d09dbc42dbbb7c884c26c35db0"
   license "MIT"
   head "https://github.com/acj/krapslog-rs.git"
 
